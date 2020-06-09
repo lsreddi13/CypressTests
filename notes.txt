@@ -1,0 +1,61 @@
+/////////////////////////////////////////////08June2020 - Monday///////////////////////////////////////////////
+before going to 
+
+How to install cypress
+
+https://www.npmjs.com/package/cypress
+
+
+install cypress
+
+/////////////////////////////////////////////09June2020 - Tuesday///////////////////////////////////////////////
+oops 
+
+before and after function blocks
+
+beforeEach and afterEach
+
+if you eant to execute only one test tin the js file then use "only"
+if you want to skip the test cases you can use "skip"
+
+
+------------------------
+
+chaijs.com
+chaijs.com/api/bdd/
+
+Chai assertions
+Should
+Expect
+Assert
+
+BDD approach 
+
+select dropdown value and validate
+array
+key value pair
+validate keys " to.include.all.keys("a")
+
+---------
+Tasks:
+go to cypress site
+guides
+assertions sa,ese
+chai bdd  assertions and tdd assertions
+common assertions 
+    length
+    class
+    value
+    text content
+    visibility
+    existence
+    state
+    css
+
+
+/////////////////////////////////////////////10June2020 - Wednesday///////////////////////////////////////////////
+
+
+
+
+/////////////////////////////////////////////1June2020 - Thursday///////////////////////////////////////////////
