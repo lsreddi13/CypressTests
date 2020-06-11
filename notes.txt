@@ -1,4 +1,4 @@
-/////////////////////////////////////////////08June2020 - Monday///////////////////////////////////////////////
+///////////////////////////////////////////// 08 June 2020 - Monday///////////////////////////////////////////////
 before going to 
 
 How to install cypress
@@ -8,7 +8,7 @@ https://www.npmjs.com/package/cypress
 
 install cypress
 
-/////////////////////////////////////////////09June2020 - Tuesday///////////////////////////////////////////////
+///////////////////////////////////////////// 09 June 2020 - Tuesday///////////////////////////////////////////////
 oops 
 
 before and after function blocks
@@ -36,6 +36,34 @@ array
 key value pair
 validate keys " to.include.all.keys("a")
 
+npm install chai
+npm install chai
+
+after installing mocha and chai it will display in the package.json file along with the isntalled version.
+note -- how to run 
+chai framework contains annoations like testng
+we have to import the chai assertions first:
+style1 : 
+const { assert, should, expect } = require("chai")
+style2 :
+const chai = require("chai")  
+assert = chai.assert,
+should = chai.should(),
+expect = chai.expect;
+
+before
+after
+beforeEach
+afterEach
+
+how to run chai framework js file
+save as .js format
+navigate to workspace in terminal
+npx mocha path of the file
+example : npx mocha .\test.js
+
+
+
 ---------
 Tasks:
 go to cypress site
@@ -52,10 +80,65 @@ common assertions
     state
     css
 
+find few Assertions in Chai Cypress
 
 /////////////////////////////////////////////10June2020 - Wednesday///////////////////////////////////////////////
 
+js functions
+proctactor
+nightwath
+puppet and so Many
+
+javascript is aa browsers language.
+plugsin to integrate with selenium ngwebdriver framework
+
+basics of javascript
+handfull commands 
+
+
+HTML, CSS and javascript are major components in the web technologies.
+
+javascript is a interpreted language
+
+how to run javascript file
+open terminal and navigate to workspace
+node filename.js
+example : 
+PS C:\CypressWorkspace> node .\jspractise.js
+
+
+single line comment //
+miltiple line comment 
+/* fasdf
+ads fasdf
+*/
+
+naming convention variables
 
 
 
-/////////////////////////////////////////////1June2020 - Thursday///////////////////////////////////////////////
+
+/////////////////////////////////////////////10 June  2020 - Thursday///////////////////////////////////////////////
+
+functions -- 
+
+when we do repeated activities then we have to write the entire code for the same repititive actions. so if we group those lines of code in a function then we can just call the function.
+
+Advance topics - 
+Promises
+callbacks
+Sync/Async waits
+
+Note - Questions - 
+What is callbacks in js
+when you will callbacks
+how to use callbacks
+when we select drop down for country and state, first when we select country from the 302 countries list then it will send api request to display the list of states respectively.
+when we select india from the countries list - it should display 29 states from india.
+after selecting the states then it should show the zip codes (from all districts)
+aftesr selects the statue then zip code should display respectively belongs to the states.
+
+Promises -
+
+
+/////////////////////////////////////////////11 June 2020 - Friday///////////////////////////////////////////////
